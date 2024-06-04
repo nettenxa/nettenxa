@@ -39,4 +39,4 @@ Atibodee Mahawan
 
 ### Verify Badges
 
-<a href="https://badgr.com/public/assertions/yuEME2O6QzeOC5F4m3qn_A?identity__email=toy@datarockie.com" target="_blank" rel="noreferrer"><img src="https://media.badgr.com/uploads/badges/assertion-yuEME2O6QzeOC5F4m3qn_A.png?versionId=ysdUQQC2pnEYgIXkd1yZpSaXpmKsiYPc" width="120" height="120" alt="C" /></a>
+<a href="https://badgr.com/public/assertions/yuEME2O6QzeOC5F4m3qn_A?identity__email=toy@datarockie.com" target="_blank" rel="noreferrer"><img src="https://media.badgr.com/uploads/badges/assertion-yuEME2O6QzeOC5F4m3qn_A.png?versionId=ysdUQQC2pnEYgIXkd1yZpSaXpmKsiYPc" width="160" height="160" alt="C" /></a>
