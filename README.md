@@ -29,9 +29,9 @@ Atibodee Mahawan
 
 ### Verify Badges
 
-<a href="https://badgr.com/public/assertions/yuEME2O6QzeOC5F4m3qn_A?identity__email=toy@datarockie.com" target="_blank" rel="noreferrer"><img src="https://media.badgr.com/uploads/badges/assertion-yuEME2O6QzeOC5F4m3qn_A.png?versionId=ysdUQQC2pnEYgIXkd1yZpSaXpmKsiYPc" width="160" height="160" alt="C" /></a>
 <a href="https://cdn.qwiklabs.com/KJbv0GOIxc4Ze8p7LH1Ke4TeOMBGPqAus29iGiFw5po%3D" target="_blank" rel="noreferrer"><img src="https://cdn.qwiklabs.com/KJbv0GOIxc4Ze8p7LH1Ke4TeOMBGPqAus29iGiFw5po%3D" width="160" height="160" alt="C" /></a>
 <a href="https://cdn.qwiklabs.com/jQMzEedff%2FeMkW9ts7f6qRjlR8gu4gLQAzyNMXCDRyg%3D" target="_blank" rel="noreferrer"><img src="https://cdn.qwiklabs.com/jQMzEedff%2FeMkW9ts7f6qRjlR8gu4gLQAzyNMXCDRyg%3D" width="160" height="160" alt="C" /></a>
+<a href="https://badgr.com/public/assertions/yuEME2O6QzeOC5F4m3qn_A?identity__email=toy@datarockie.com" target="_blank" rel="noreferrer"><img src="https://media.badgr.com/uploads/badges/assertion-yuEME2O6QzeOC5F4m3qn_A.png?versionId=ysdUQQC2pnEYgIXkd1yZpSaXpmKsiYPc" width="160" height="160" alt="C" /></a>
 <a href="https://badgr.com/backpack/badges/676df7aaa96719771582a241" target="_blank" rel="noreferrer"><img src="https://media.badgr.com/uploads/badges/assertion-oe8Ms9wHTi2tD1GYEByIsg.png?versionId=bxGlSRTarih1YRW6wXQodtJvq1WBTStW" width="160" height="160" alt="C" /></a>
 <a href="https://badgr.com/backpack/badges/6773e7f6aa04f3051923010a" target="_blank" rel="noreferrer"><img src="https://media.badgr.com/uploads/badges/assertion-qItw_4AsQWOiuabYS0MGIA.png?versionId=VopFwzWqzJDWg4cdUXlfVM.eHrNwMkx." width="160" height="160" alt="C" /></a>
 <a href="https://badgr.com/public/assertions/yUEYvR-8SJKJrmFHE0_n3Q" target="_blank" rel="noreferrer"><img src="https://media.badgr.com/uploads/badges/assertion-yUEYvR-8SJKJrmFHE0_n3Q.png?versionId=qlECSrGVq53jVln1k7kJYnW0t3t98Svb" width="160" height="160" alt="C" /></a>
